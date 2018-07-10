@@ -1,0 +1,6 @@
+Para renderizar as imagens comprimidas e gráficos de estudo basta executar cada
+uma das rotinas listadas abaixo no prompt do Matlab:
+
+- CIQA
+- CIVQ
+- CIMap
